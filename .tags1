@@ -4,3 +4,13 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
+sys_tick_handler	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^void sys_tick_handler(void)$/;"	function	line:19	signature:(void)
+data_sz	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^const uint16_t data_sz = 105;$/;"	variable	line:25
+data_to_send	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^uint8_t data_to_send[data_sz];$/;"	variable	line:26
+data_idx	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^uint16_t data_idx = 4;$/;"	variable	line:27
+uart_msg_ready	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^bool uart_msg_ready = false;$/;"	variable	line:28
+usart1_isr	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^void usart1_isr(){$/;"	function	line:29	signature:()
+hard_fault_handler	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^void hard_fault_handler(void){$/;"	function	line:47	signature:(void)
+e	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^	int e;$/;"	variable	line:52
+my_packet	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^	char my_packet[100];$/;"	variable	line:53
+main	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^int main(){$/;"	function	line:56	signature:()

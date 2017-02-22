@@ -147,6 +147,7 @@ int main(){
 		  	Serial.println("Successful!!");
 
 			msg_num++;
+			data_idx = 4;
 			uart_msg_ready = false;
 			sx1278.receive();
 		}
