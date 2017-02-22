@@ -780,7 +780,7 @@ public:
   	\param uint32_t wait : time to wait to receive something.
 	\return '0' on success, '1' otherwise
 	 */
-	uint8_t receivePacketTimeoutACK(uint32_t wait);
+	uint8_t receivePacketTimeoutACK(uint32_t wait, bool set_state = true);
 
 	//! It puts the module in 'promiscuous' reception mode.
   	/*!

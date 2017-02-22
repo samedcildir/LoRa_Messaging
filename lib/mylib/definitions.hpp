@@ -18,10 +18,11 @@
 	#define LORA_POWER  'I' // 'M'=20dbm - 'H'=14dbm - 'I'=8dbm - 'L'=2dbm
 
 	#ifdef LORA_SEND
-		#define LORA_ADDRESS  2
+		#define LORA_ADDRESS  				2
 		#define LORA_SEND_TO_ADDRESS  4
 	#else
-		#define LORA_ADDRESS  4
+		#define LORA_ADDRESS  				4
+		#define LORA_SEND_TO_ADDRESS  2
 	#endif
 #endif
 

@@ -3206,7 +3206,7 @@ uint8_t SX1278::receivePacketTimeoutACK()
    state = 1  --> There has been an error while executing the command
    state = 0  --> The command has been executed with no errors
 */
-uint8_t SX1278::receivePacketTimeoutACK(uint32_t wait)
+uint8_t SX1278::receivePacketTimeoutACK(uint32_t wait, bool set_state)
 {
 	uint8_t state = 2;
 	uint8_t state_f = 2;
@@ -3218,7 +3218,9 @@ uint8_t SX1278::receivePacketTimeoutACK(uint32_t wait)
 	#endif
 
 	// set RX mode
-	state = receive();
+	if(set_state)
+		state = receive();
+	else state = 0;
 
 	// if RX mode is set correctly then wait for data
 	if( state == 0 )

@@ -6,6 +6,7 @@
 #include <libopencm3/stm32/usart.h>
 #include <libopencm3/cm3/systick.h>
 #include <libopencm3/stm32/timer.h>
+#include <libopencm3/cm3/nvic.h>
 
 #include "system_functions.hpp"
 #include "uart.hpp"
@@ -46,6 +47,9 @@ void init_usart(){
 
 	/* Finally enable the USART. */
 	usart_enable(DEBUG_USART);
+
+	nvic_enable_irq(DEBUG_USART_NVIC);
+	usart_enable_rx_interrupt(DEBUG_USART);
 
 #if DEBUG_MODE
 	send_debug("Init UART Done!");
