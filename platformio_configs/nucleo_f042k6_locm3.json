@@ -1,0 +1,23 @@
+{
+  "build": {
+    "core": "stm32", 
+    "extra_flags": "-DSTM32F0 -DSTM32F042x6", 
+    "f_cpu": "48000000L", 
+    "ldscript": "C:\\Users\\halil\\AppData\\Roaming\\SPB_16.6\\.platformio\\platforms\\ststm32\\ldscripts\\stm32f042x6_locm3.ld",
+    "cpu": "cortex-m0", 
+    "mcu": "stm32f042k6t6",
+    "variant": "stm32f042x6"
+  }, 
+  "frameworks": [
+    "libopencm3", "mbed"
+  ], 
+  "name": "ST Nucleo F042K6", 
+  "platform": "ststm32",
+  "upload": {
+    "maximum_ram_size": 6144, 
+    "maximum_size": 32768, 
+    "protocol": "stlink"
+  }, 
+  "url": "https://developer.mbed.org/platforms/ST-Nucleo-F042K6/", 
+  "vendor": "ST"
+}

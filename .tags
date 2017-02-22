@@ -1,0 +1,612 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+execPath	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\.gcc-flags.json	/^  "execPath": "C:\/Users\/halil\/AppData\/Roaming\/SPB_16.6\/.platformio\/packages\/toolchain-gccarmnoneeabi\/bin\/arm-none-eabi-g++.exe",$/;"	function	line:2
+gccDefaultCFlags	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\.gcc-flags.json	/^  "gccDefaultCFlags": "-fsyntax-only -g -Os -ffunction-sections -fdata-sections -Wall -mthumb -nostdlib -mcpu=cortex-m0 -DF_CPU=48000000L -DSTM32F042X6 -DPLATFORMIO=30201 -DSTM32F0 -DSTM32F042x6 -DLORA_SEND",$/;"	function	line:3
+gccDefaultCppFlags	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\.gcc-flags.json	/^  "gccDefaultCppFlags": "-fsyntax-only -fno-rtti -fno-exceptions -std=c++14 -g -Os -ffunction-sections -fdata-sections -Wall -mthumb -nostdlib -mcpu=cortex-m0 -DF_CPU=48000000L -DSTM32F042X6 -DPLATFORMIO=30201 -DSTM32F0 -DSTM32F042x6 -DLORA_SEND",$/;"	function	line:4
+gccErrorLimit	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\.gcc-flags.json	/^  "gccErrorLimit": 15,$/;"	function	line:5
+gccIncludePaths	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\.gcc-flags.json	/^  "gccIncludePaths": "C:\/Users\/halil\/AppData\/Roaming\/SPB_16.6\/.platformio\/packages\/framework-libopencm3,C:\/Users\/halil\/AppData\/Roaming\/SPB_16.6\/.platformio\/packages\/framework-libopencm3\/include,C:\/Users\/halil\/OneDrive\/Belgeler\/staj\/Techneon_after_after\/LoRa\/lib\/mylib,C:\/Users\/halil\/OneDrive\/Belgeler\/staj\/Techneon_after_after\/LoRa\/src,C:\/Users\/halil\/OneDrive\/Belgeler\/staj\/Techneon_after_after\/LoRa\/lib\/mylib,C:\/Users\/halil\/AppData\/Roaming\/SPB_16.6\/.platformio\/packages\/toolchain-gccarmnoneeabi\/arm-none-eabi\/include,C:\/Users\/halil\/AppData\/Roaming\/SPB_16.6\/.platformio\/packages\/toolchain-gccarmnoneeabi\/lib\/gcc\/arm-none-eabi\/5.4.1\/include,C:\/Users\/halil\/AppData\/Roaming\/SPB_16.6\/.platformio\/packages\/toolchain-gccarmnoneeabi\/lib\/gcc\/arm-none-eabi\/5.4.1\/include-fixed",$/;"	function	line:6
+gccSuppressWarnings	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\.gcc-flags.json	/^  "gccSuppressWarnings": false$/;"	function	line:7
+DEFINITIONS_HPP	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define DEFINITIONS_HPP$/;"	macro	line:2
+DEBUG_MODE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define DEBUG_MODE /;"	macro	line:4
+LORA_TYPE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define LORA_TYPE /;"	macro	line:5
+SX1278_debug_mode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define SX1278_debug_mode /;"	macro	line:7
+LORA_CHANNEL	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^	#define LORA_CHANNEL /;"	macro	line:11
+LORA_MODE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^	#define LORA_MODE /;"	macro	line:12
+LORA_POWER	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^	#define LORA_POWER /;"	macro	line:15
+LORA_ADDRESS	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^		#define LORA_ADDRESS /;"	macro	line:18
+LORA_SEND_TO_ADDRESS	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^		#define LORA_SEND_TO_ADDRESS /;"	macro	line:19
+LORA_ADDRESS	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^		#define LORA_ADDRESS /;"	macro	line:21
+MCO_OUT_PORT	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define MCO_OUT_PORT /;"	macro	line:25
+MCO_OUT_PIN	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define MCO_OUT_PIN /;"	macro	line:26
+SPI_SCK_PORT	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define SPI_SCK_PORT /;"	macro	line:28
+SPI_SCK_PIN	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define SPI_SCK_PIN /;"	macro	line:29
+SPI_MISO_PORT	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define SPI_MISO_PORT /;"	macro	line:31
+SPI_MISO_PIN	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define SPI_MISO_PIN /;"	macro	line:32
+SPI_MOSI_PORT	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define SPI_MOSI_PORT /;"	macro	line:34
+SPI_MOSI_PIN	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define SPI_MOSI_PIN /;"	macro	line:35
+SPI_NSS_PORT	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define SPI_NSS_PORT /;"	macro	line:37
+SPI_NSS_PIN	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define SPI_NSS_PIN /;"	macro	line:38
+LED_PORT	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define LED_PORT /;"	macro	line:40
+LED_PIN	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define LED_PIN /;"	macro	line:41
+DEBUG_USART	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define DEBUG_USART /;"	macro	line:44
+DEBUG_USART_RCC	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define DEBUG_USART_RCC /;"	macro	line:45
+DEBUG_USART_PORT	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define DEBUG_USART_PORT /;"	macro	line:46
+DEBUG_USART_PIN_TX	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define DEBUG_USART_PIN_TX /;"	macro	line:47
+DEBUG_USART_PIN_RX	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define DEBUG_USART_PIN_RX /;"	macro	line:48
+DEBUG_USART_AF	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define DEBUG_USART_AF /;"	macro	line:49
+DEBUG_USART_NVIC	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define DEBUG_USART_NVIC /;"	macro	line:50
+DEBUG_USART_SPEED	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\definitions.hpp	/^#define DEBUG_USART_SPEED /;"	macro	line:51
+decode_from_7bits	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\hamming74.cpp	/^uint8_t decode_from_7bits(uint8_t c){$/;"	function	line:20	signature:(uint8_t c)
+encode_to_7bits	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\hamming74.cpp	/^uint8_t encode_to_7bits(uint8_t p){$/;"	function	line:38	signature:(uint8_t p)
+HAMMING74_HPP	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\hamming74.hpp	/^#define HAMMING74_HPP$/;"	macro	line:2
+init_clock	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\init.cpp	/^void init_clock(){$/;"	function	line:16	signature:()
+init_gpio	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\init.cpp	/^void init_gpio(){$/;"	function	line:21	signature:()
+init_usart	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\init.cpp	/^void init_usart(){$/;"	function	line:33	signature:()
+init_systick	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\init.cpp	/^void init_systick(){$/;"	function	line:55	signature:()
+init_mco	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\init.cpp	/^void init_mco(){$/;"	function	line:67	signature:()
+init_timer	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\init.cpp	/^void init_timer(){$/;"	function	line:78	signature:()
+INIT_HPP	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\init.hpp	/^#define INIT_HPP$/;"	macro	line:2
+LED_HPP	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\led.hpp	/^#define LED_HPP$/;"	macro	line:2
+setLED	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\led.hpp	/^inline void setLED(){$/;"	function	line:7	signature:()
+clearLED	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\led.hpp	/^inline void clearLED(){$/;"	function	line:10	signature:()
+init_lora	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.cpp	/^void init_lora(){$/;"	function	line:8	signature:()
+lora_cont_recv	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.cpp	/^void lora_cont_recv(){$/;"	function	line:29	signature:()
+lora_send	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.cpp	/^void lora_send(uint8_t sz, uint8_t *data){$/;"	function	line:81	signature:(uint8_t sz, uint8_t *data)
+LORA_HPP	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define LORA_HPP$/;"	macro	line:2
+RegFifo_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegFifo_ADR /;"	macro	line:10
+RegOpMode_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegOpMode_ADR /;"	macro	line:11
+RegFrfMsb_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegFrfMsb_ADR /;"	macro	line:12
+RegFrfMid_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegFrfMid_ADR /;"	macro	line:13
+RegFrfLsb_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegFrfLsb_ADR /;"	macro	line:14
+RegPaConfig_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegPaConfig_ADR /;"	macro	line:15
+RegPaRamp_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegPaRamp_ADR /;"	macro	line:16
+RegOcp_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegOcp_ADR /;"	macro	line:17
+RegLna_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegLna_ADR /;"	macro	line:18
+RegFifoAddrPtr_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegFifoAddrPtr_ADR /;"	macro	line:19
+RegFifoTxBaseAddr_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegFifoTxBaseAddr_ADR /;"	macro	line:20
+RegFifoRxBaseAddr_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegFifoRxBaseAddr_ADR /;"	macro	line:21
+FifoRxCurrentAddr_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define FifoRxCurrentAddr_ADR /;"	macro	line:22
+RegIrqFlagsMask_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegIrqFlagsMask_ADR /;"	macro	line:23
+RegIrqFlags_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegIrqFlags_ADR /;"	macro	line:24
+RegRxNbBytes_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegRxNbBytes_ADR /;"	macro	line:25
+RegRxHeaderCntValueMsb_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegRxHeaderCntValueMsb_ADR /;"	macro	line:26
+RegRxHeaderCntValueLsb_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegRxHeaderCntValueLsb_ADR /;"	macro	line:27
+RegRxPacketCntValueMsb_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegRxPacketCntValueMsb_ADR /;"	macro	line:28
+RegRxPacketCntValueLsb_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegRxPacketCntValueLsb_ADR /;"	macro	line:29
+RegModemStat_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegModemStat_ADR /;"	macro	line:30
+RegPktSnrValue_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegPktSnrValue_ADR /;"	macro	line:31
+RegPktRssiValue_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegPktRssiValue_ADR /;"	macro	line:32
+RegRssiValue_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegRssiValue_ADR /;"	macro	line:33
+RegHopChannel_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegHopChannel_ADR /;"	macro	line:34
+RegModemConfig1_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegModemConfig1_ADR /;"	macro	line:35
+RegModemConfig2_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegModemConfig2_ADR /;"	macro	line:36
+RegSymbTimeoutLsb_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegSymbTimeoutLsb_ADR /;"	macro	line:37
+RegPreambleMsb_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegPreambleMsb_ADR /;"	macro	line:38
+RegPreambleLsb_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegPreambleLsb_ADR /;"	macro	line:39
+RegPayloadLength_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegPayloadLength_ADR /;"	macro	line:40
+RegMaxPayloadLength_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegMaxPayloadLength_ADR /;"	macro	line:41
+RegHopPeriod_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegHopPeriod_ADR /;"	macro	line:42
+RegFifoRxByteAddr_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegFifoRxByteAddr_ADR /;"	macro	line:43
+RegModemConfig3_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegModemConfig3_ADR /;"	macro	line:44
+RegFeiMsb_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegFeiMsb_ADR /;"	macro	line:45
+RegFeiMid_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegFeiMid_ADR /;"	macro	line:46
+RegFeiLsb_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegFeiLsb_ADR /;"	macro	line:47
+RegRssiWideband_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegRssiWideband_ADR /;"	macro	line:48
+RegDetectOptimize_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegDetectOptimize_ADR /;"	macro	line:49
+RegInvertIQ_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegInvertIQ_ADR /;"	macro	line:50
+RegDetectionThreshold_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegDetectionThreshold_ADR /;"	macro	line:51
+RegSyncWord_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegSyncWord_ADR /;"	macro	line:52
+RegDioMapping1_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegDioMapping1_ADR /;"	macro	line:53
+RegDioMapping2_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegDioMapping2_ADR /;"	macro	line:54
+RegVersion_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegVersion_ADR /;"	macro	line:55
+RegTcxo_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegTcxo_ADR /;"	macro	line:56
+RegPaDac_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegPaDac_ADR /;"	macro	line:57
+RegFormerTemp_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegFormerTemp_ADR /;"	macro	line:58
+RegAgcRef_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegAgcRef_ADR /;"	macro	line:59
+RegAgcThresh1_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegAgcThresh1_ADR /;"	macro	line:60
+RegAgcThresh2_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegAgcThresh2_ADR /;"	macro	line:61
+RegAgcThresh3_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegAgcThresh3_ADR /;"	macro	line:62
+RegPll_ADR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora.hpp	/^#define RegPll_ADR /;"	macro	line:63
+SX1278	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^SX1278::SX1278()$/;"	function	line:31	class:SX1278	signature:()
+memset	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^void *memset(void *s, int c, int n)$/;"	function	line:50	signature:(void *s, int c, int n)
+strlen	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint16_t strlen(char* s){$/;"	function	line:57	signature:(char* s)
+max	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^float max(float f1, float f2){$/;"	function	line:62	signature:(float f1, float f2)
+ON	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::ON()$/;"	function	line:71	class:SX1278	signature:()
+OFF	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^void SX1278::OFF()$/;"	function	line:108	class:SX1278	signature:()
+readRegister	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::readRegister(uint8_t address)$/;"	function	line:130	class:SX1278	signature:(uint8_t address)
+writeRegister	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^void SX1278::writeRegister(uint8_t address, uint8_t data)$/;"	function	line:153	class:SX1278	signature:(uint8_t address, uint8_t data)
+clearFlags	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^void SX1278::clearFlags()$/;"	function	line:178	class:SX1278	signature:()
+setLORA	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::setLORA()$/;"	function	line:224	class:SX1278	signature:()
+setFSK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::setFSK()$/;"	function	line:278	class:SX1278	signature:()
+getMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::getMode()$/;"	function	line:331	class:SX1278	signature:()
+getHeader	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t	SX1278::getHeader()$/;"	function	line:392	class:SX1278	signature:()
+setHeaderON	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t	SX1278::setHeaderON()$/;"	function	line:448	class:SX1278	signature:()
+setHeaderOFF	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t	SX1278::setHeaderOFF()$/;"	function	line:510	class:SX1278	signature:()
+getCRC	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t	SX1278::getCRC()$/;"	function	line:571	class:SX1278	signature:()
+setCRC_ON	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t	SX1278::setCRC_ON()$/;"	function	line:647	class:SX1278	signature:()
+setCRC_OFF	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t	SX1278::setCRC_OFF()$/;"	function	line:713	class:SX1278	signature:()
+isSF	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^bool	SX1278::isSF(uint8_t spr)$/;"	function	line:775	class:SX1278	signature:(uint8_t spr)
+getSF	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t	SX1278::getSF()$/;"	function	line:810	class:SX1278	signature:()
+setSF	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t	SX1278::setSF(uint8_t spr)$/;"	function	line:858	class:SX1278	signature:(uint8_t spr)
+isBW	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^bool	SX1278::isBW(uint16_t band)$/;"	function	line:1074	class:SX1278	signature:(uint16_t band)
+getBW	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t	SX1278::getBW()$/;"	function	line:1112	class:SX1278	signature:()
+setBW	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t	SX1278::setBW(uint16_t band)$/;"	function	line:1167	class:SX1278	signature:(uint16_t band)
+isCR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^bool	SX1278::isCR(uint8_t cod)$/;"	function	line:1573	class:SX1278	signature:(uint8_t cod)
+getCR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t	SX1278::getCR()$/;"	function	line:1605	class:SX1278	signature:()
+setCR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t	SX1278::setCR(uint8_t cod)$/;"	function	line:1655	class:SX1278	signature:(uint8_t cod)
+isChannel	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^bool	SX1278::isChannel(uint32_t ch)$/;"	function	line:1754	class:SX1278	signature:(uint32_t ch)
+getChannel	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::getChannel()$/;"	function	line:1829	class:SX1278	signature:()
+setChannel	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t SX1278::setChannel(uint32_t ch)$/;"	function	line:1875	class:SX1278	signature:(uint32_t ch)
+getPower	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::getPower()$/;"	function	line:1958	class:SX1278	signature:()
+setPower	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t SX1278::setPower(char p)$/;"	function	line:2000	class:SX1278	signature:(char p)
+setPowerNum	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t SX1278::setPowerNum(uint8_t pow)$/;"	function	line:2078	class:SX1278	signature:(uint8_t pow)
+getPreambleLength	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::getPreambleLength()$/;"	function	line:2147	class:SX1278	signature:()
+setPreambleLength	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::setPreambleLength(uint16_t l)$/;"	function	line:2201	class:SX1278	signature:(uint16_t l)
+getPayloadLength	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::getPayloadLength()$/;"	function	line:2254	class:SX1278	signature:()
+setPacketLength	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t SX1278::setPacketLength()$/;"	function	line:2295	class:SX1278	signature:()
+setPacketLength	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t SX1278::setPacketLength(uint8_t l)$/;"	function	line:2313	class:SX1278	signature:(uint8_t l)
+getNodeAddress	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::getNodeAddress()$/;"	function	line:2371	class:SX1278	signature:()
+setNodeAddress	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t SX1278::setNodeAddress(uint8_t addr)$/;"	function	line:2424	class:SX1278	signature:(uint8_t addr)
+getSNR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t SX1278::getSNR()$/;"	function	line:2502	class:SX1278	signature:()
+getRSSI	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::getRSSI()$/;"	function	line:2553	class:SX1278	signature:()
+getRSSIpacket	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int16_t SX1278::getRSSIpacket()$/;"	function	line:2616	class:SX1278	signature:()
+setRetries	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::setRetries(uint8_t ret)$/;"	function	line:2669	class:SX1278	signature:(uint8_t ret)
+getMaxCurrent	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::getMaxCurrent()$/;"	function	line:2712	class:SX1278	signature:()
+setMaxCurrent	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t SX1278::setMaxCurrent(uint8_t rate)$/;"	function	line:2766	class:SX1278	signature:(uint8_t rate)
+getRegs	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::getRegs()$/;"	function	line:2815	class:SX1278	signature:()
+truncPayload	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::truncPayload(uint16_t length16)$/;"	function	line:2943	class:SX1278	signature:(uint16_t length16)
+setACK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::setACK()$/;"	function	line:2974	class:SX1278	signature:()
+receive	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::receive()$/;"	function	line:3051	class:SX1278	signature:()
+receivePacketMAXTimeout	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::receivePacketMAXTimeout()$/;"	function	line:3116	class:SX1278	signature:()
+receivePacketTimeout	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::receivePacketTimeout()$/;"	function	line:3128	class:SX1278	signature:()
+receivePacketTimeout	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::receivePacketTimeout(uint32_t wait)$/;"	function	line:3141	class:SX1278	signature:(uint32_t wait)
+receivePacketMAXTimeoutACK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::receivePacketMAXTimeoutACK()$/;"	function	line:3182	class:SX1278	signature:()
+receivePacketTimeoutACK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::receivePacketTimeoutACK()$/;"	function	line:3194	class:SX1278	signature:()
+receivePacketTimeoutACK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::receivePacketTimeoutACK(uint32_t wait)$/;"	function	line:3209	class:SX1278	signature:(uint32_t wait)
+receiveAll	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t	SX1278::receiveAll()$/;"	function	line:3292	class:SX1278	signature:()
+receiveAll	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::receiveAll(uint32_t wait)$/;"	function	line:3304	class:SX1278	signature:(uint32_t wait)
+availableData	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^bool	SX1278::availableData()$/;"	function	line:3344	class:SX1278	signature:()
+availableData	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^bool	SX1278::availableData(uint32_t wait)$/;"	function	line:3356	class:SX1278	signature:(uint32_t wait)
+getPacketMAXTimeout	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::getPacketMAXTimeout()$/;"	function	line:3533	class:SX1278	signature:()
+getPacket	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t SX1278::getPacket()$/;"	function	line:3545	class:SX1278	signature:()
+getPacket	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t SX1278::getPacket(uint32_t wait)$/;"	function	line:3560	class:SX1278	signature:(uint32_t wait)
+setDestination	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^int8_t SX1278::setDestination(uint8_t dest)$/;"	function	line:3844	class:SX1278	signature:(uint8_t dest)
+setTimeout	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::setTimeout()$/;"	function	line:3884	class:SX1278	signature:()
+timeOnAir	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^float SX1278::timeOnAir()$/;"	function	line:3943	class:SX1278	signature:()
+timeOnAir	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^float SX1278::timeOnAir( uint16_t payloadlength )$/;"	function	line:3953	class:SX1278	signature:( uint16_t payloadlength )
+setPayload	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::setPayload(char *payload)$/;"	function	line:4005	class:SX1278	signature:(char *payload)
+setPayload	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::setPayload(uint8_t *payload)$/;"	function	line:4056	class:SX1278	signature:(uint8_t *payload)
+setPacket	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::setPacket(uint8_t dest, char *payload)$/;"	function	line:4091	class:SX1278	signature:(uint8_t dest, char *payload)
+setPacket	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::setPacket(uint8_t dest, uint8_t *payload)$/;"	function	line:4180	class:SX1278	signature:(uint8_t dest, uint8_t *payload)
+sendWithMAXTimeout	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendWithMAXTimeout()$/;"	function	line:4269	class:SX1278	signature:()
+sendWithTimeout	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendWithTimeout()$/;"	function	line:4281	class:SX1278	signature:()
+sendWithTimeout	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendWithTimeout(uint32_t wait)$/;"	function	line:4294	class:SX1278	signature:(uint32_t wait)
+sendPacketMAXTimeout	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketMAXTimeout(uint8_t dest, char *payload)$/;"	function	line:4386	class:SX1278	signature:(uint8_t dest, char *payload)
+sendPacketMAXTimeout	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketMAXTimeout(	uint8_t dest,$/;"	function	line:4398	class:SX1278	signature:( uint8_t dest, uint8_t *payload, uint16_t length16)
+sendPacketTimeout	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketTimeout(uint8_t dest, char *payload)$/;"	function	line:4412	class:SX1278	signature:(uint8_t dest, char *payload)
+sendPacketTimeout	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketTimeout(	uint8_t dest,$/;"	function	line:4438	class:SX1278	signature:( uint8_t dest, uint8_t *payload, uint16_t length16)
+sendPacketTimeout	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketTimeout(uint8_t dest, char *payload, uint32_t wait)$/;"	function	line:4473	class:SX1278	signature:(uint8_t dest, char *payload, uint32_t wait)
+sendPacketTimeout	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketTimeout(	uint8_t dest,$/;"	function	line:4497	class:SX1278	signature:( uint8_t dest, uint8_t *payload, uint16_t length16, uint32_t wait)
+sendPacketMAXTimeoutACK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketMAXTimeoutACK(uint8_t dest, char *payload)$/;"	function	line:4533	class:SX1278	signature:(uint8_t dest, char *payload)
+sendPacketMAXTimeoutACK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketMAXTimeoutACK(uint8_t dest,$/;"	function	line:4545	class:SX1278	signature:(uint8_t dest, uint8_t *payload, uint16_t length16)
+sendPacketTimeoutACK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketTimeoutACK(uint8_t dest, char *payload)$/;"	function	line:4566	class:SX1278	signature:(uint8_t dest, char *payload)
+sendPacketTimeoutACK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketTimeoutACK(	uint8_t dest,$/;"	function	line:4619	class:SX1278	signature:( uint8_t dest, uint8_t *payload, uint16_t length16)
+sendPacketTimeoutACK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketTimeoutACK(	uint8_t dest,$/;"	function	line:4677	class:SX1278	signature:( uint8_t dest, char *payload, uint32_t wait)
+sendPacketTimeoutACK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketTimeoutACK(	uint8_t dest,$/;"	function	line:4731	class:SX1278	signature:( uint8_t dest, uint8_t *payload, uint16_t length16, uint32_t wait)
+getACK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::getACK()$/;"	function	line:4776	class:SX1278	signature:()
+getACK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::getACK(uint32_t wait)$/;"	function	line:4796	class:SX1278	signature:(uint32_t wait)
+sendPacketMAXTimeoutACKRetries	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketMAXTimeoutACKRetries(	uint8_t dest,$/;"	function	line:4951	class:SX1278	signature:( uint8_t dest, char *payload)
+sendPacketMAXTimeoutACKRetries	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketMAXTimeoutACKRetries(	uint8_t dest,$/;"	function	line:4964	class:SX1278	signature:( uint8_t dest, uint8_t *payload, uint16_t length16)
+sendPacketTimeoutACKRetries	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketTimeoutACKRetries(uint8_t dest, char *payload)$/;"	function	line:4985	class:SX1278	signature:(uint8_t dest, char *payload)
+sendPacketTimeoutACKRetries	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketTimeoutACKRetries(uint8_t dest,$/;"	function	line:5020	class:SX1278	signature:(uint8_t dest, uint8_t *payload, uint16_t length16)
+sendPacketTimeoutACKRetries	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketTimeoutACKRetries(uint8_t dest,$/;"	function	line:5057	class:SX1278	signature:(uint8_t dest, char *payload, uint32_t wait)
+sendPacketTimeoutACKRetries	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::sendPacketTimeoutACKRetries(uint8_t dest,$/;"	function	line:5094	class:SX1278	signature:(uint8_t dest, uint8_t *payload, uint16_t length16, uint32_t wait)
+getTemp	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^uint8_t SX1278::getTemp()$/;"	function	line:5125	class:SX1278	signature:()
+showRxRegisters	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^void SX1278::showRxRegisters()$/;"	function	line:5180	class:SX1278	signature:()
+cadDetected	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^bool SX1278::cadDetected()$/;"	function	line:5208	class:SX1278	signature:()
+sx1278	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.cpp	/^SX1278	sx1278 = SX1278();$/;"	variable	line:5261
+LORA_ARDUINO_HPP	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define LORA_ARDUINO_HPP$/;"	macro	line:33
+bitRead	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define bitRead(/;"	macro	line:56
+bitSet	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define bitSet(/;"	macro	line:57
+bitClear	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define bitClear(/;"	macro	line:58
+REG_FIFO	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_FIFO /;"	macro	line:63
+REG_OP_MODE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_OP_MODE /;"	macro	line:64
+REG_FRF_MSB	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_FRF_MSB /;"	macro	line:65
+REG_FRF_MID	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_FRF_MID /;"	macro	line:66
+REG_FRF_LSB	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_FRF_LSB /;"	macro	line:67
+REG_PA_CONFIG	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_PA_CONFIG /;"	macro	line:68
+REG_PA_RAMP	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_PA_RAMP /;"	macro	line:69
+REG_OCP	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_OCP /;"	macro	line:70
+REG_LNA	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_LNA /;"	macro	line:71
+REG_FIFO_ADDR_PTR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_FIFO_ADDR_PTR /;"	macro	line:72
+REG_FIFO_TX_BASE_ADDR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_FIFO_TX_BASE_ADDR /;"	macro	line:73
+REG_FIFO_RX_BASE_ADDR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_FIFO_RX_BASE_ADDR /;"	macro	line:74
+REG_FIFO_RX_CURRENT_ADDR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_FIFO_RX_CURRENT_ADDR /;"	macro	line:75
+REG_IRQ_FLAGS_MASK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_IRQ_FLAGS_MASK /;"	macro	line:76
+REG_IRQ_FLAGS	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_IRQ_FLAGS	/;"	macro	line:77
+REG_RX_NB_BYTES	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_RX_NB_BYTES	/;"	macro	line:78
+REG_RX_HEADER_CNT_VALUE_MSB	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_RX_HEADER_CNT_VALUE_MSB /;"	macro	line:79
+REG_RX_HEADER_CNT_VALUE_LSB	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_RX_HEADER_CNT_VALUE_LSB /;"	macro	line:80
+REG_RX_PACKET_CNT_VALUE_MSB	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_RX_PACKET_CNT_VALUE_MSB /;"	macro	line:81
+REG_RX_PACKET_CNT_VALUE_LSB	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_RX_PACKET_CNT_VALUE_LSB /;"	macro	line:82
+REG_MODEM_STAT	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_MODEM_STAT	/;"	macro	line:83
+REG_PKT_SNR_VALUE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_PKT_SNR_VALUE	/;"	macro	line:84
+REG_PKT_RSSI_VALUE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_PKT_RSSI_VALUE	/;"	macro	line:85
+REG_RSSI_VALUE_LORA	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_RSSI_VALUE_LORA	/;"	macro	line:86
+REG_HOP_CHANNEL	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_HOP_CHANNEL	/;"	macro	line:87
+REG_MODEM_CONFIG1	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_MODEM_CONFIG1	/;"	macro	line:88
+REG_MODEM_CONFIG2	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_MODEM_CONFIG2	/;"	macro	line:89
+REG_SYMB_TIMEOUT_LSB	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_SYMB_TIMEOUT_LSB /;"	macro	line:90
+REG_PREAMBLE_MSB_LORA	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_PREAMBLE_MSB_LORA /;"	macro	line:91
+REG_PREAMBLE_LSB_LORA	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_PREAMBLE_LSB_LORA /;"	macro	line:92
+REG_PAYLOAD_LENGTH_LORA	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_PAYLOAD_LENGTH_LORA	/;"	macro	line:93
+REG_MAX_PAYLOAD_LENGTH	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_MAX_PAYLOAD_LENGTH /;"	macro	line:94
+REG_HOP_PERIOD	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_HOP_PERIOD	/;"	macro	line:95
+REG_FIFO_RX_BYTE_ADDR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_FIFO_RX_BYTE_ADDR /;"	macro	line:96
+REG_MODEM_CONFIG3	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_MODEM_CONFIG3	/;"	macro	line:97
+REG_SYNC_CONFIG	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_SYNC_CONFIG	/;"	macro	line:98
+REG_FEI_MSB	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define	       REG_FEI_MSB	/;"	macro	line:99
+REG_FEI_MID	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define	       REG_FEI_MID	/;"	macro	line:100
+REG_FEI_LSB	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define	       REG_FEI_LSB	/;"	macro	line:101
+REG_RSSI_WIDEBAND	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define	       REG_RSSI_WIDEBAND	/;"	macro	line:102
+REG_DETECT_OPTIMIZE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_DETECT_OPTIMIZE	/;"	macro	line:103
+REG_INVERT_IQ	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_INVERT_IQ	/;"	macro	line:104
+REG_DETECTION_THRESHOLD	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_DETECTION_THRESHOLD /;"	macro	line:105
+REG_SYNC_WORD	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_SYNC_WORD	/;"	macro	line:106
+REG_DIO_MAPPING1	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_DIO_MAPPING1	/;"	macro	line:107
+REG_DIO_MAPPING2	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_DIO_MAPPING2	/;"	macro	line:108
+REG_VERSION	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_VERSION	/;"	macro	line:109
+REG_PLL_HOP	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_PLL_HOP	/;"	macro	line:110
+REG_TCXO	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_TCXO	/;"	macro	line:111
+REG_PA_DAC	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_PA_DAC	/;"	macro	line:112
+REG_FORMER_TEMP	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_FORMER_TEMP	/;"	macro	line:113
+REG_BIT_RATE_FRAC	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_BIT_RATE_FRAC	/;"	macro	line:114
+REG_AGC_REF	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_AGC_REF	/;"	macro	line:115
+REG_AGC_THRESH1	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_AGC_THRESH1	/;"	macro	line:116
+REG_AGC_THRESH2	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_AGC_THRESH2	/;"	macro	line:117
+REG_AGC_THRESH3	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_AGC_THRESH3	/;"	macro	line:118
+REG_PLL	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_PLL	/;"	macro	line:119
+REG_BITRATE_MSB	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_BITRATE_MSB /;"	macro	line:122
+REG_BITRATE_LSB	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_BITRATE_LSB /;"	macro	line:123
+REG_FDEV_MSB	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_FDEV_MSB /;"	macro	line:124
+REG_FDEV_LSB	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_FDEV_LSB /;"	macro	line:125
+REG_RX_CONFIG	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_RX_CONFIG /;"	macro	line:126
+REG_RSSI_CONFIG	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_RSSI_CONFIG /;"	macro	line:127
+REG_RSSI_COLLISION	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_RSSI_COLLISION /;"	macro	line:128
+REG_RSSI_THRESH	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_RSSI_THRESH /;"	macro	line:129
+REG_RSSI_VALUE_FSK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_RSSI_VALUE_FSK	/;"	macro	line:130
+REG_RX_BW	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_RX_BW	/;"	macro	line:131
+REG_AFC_BW	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_AFC_BW	/;"	macro	line:132
+REG_OOK_PEAK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_OOK_PEAK	/;"	macro	line:133
+REG_OOK_FIX	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_OOK_FIX	/;"	macro	line:134
+REG_OOK_AVG	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_OOK_AVG	/;"	macro	line:135
+REG_AFC_FEI	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_AFC_FEI	/;"	macro	line:136
+REG_AFC_MSB	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_AFC_MSB	/;"	macro	line:137
+REG_AFC_LSB	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_AFC_LSB	/;"	macro	line:138
+REG_FEI_MSB_FSK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_FEI_MSB_FSK	/;"	macro	line:139
+REG_FEI_LSB_FSK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_FEI_LSB_FSK	/;"	macro	line:140
+REG_PREAMBLE_DETECT	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_PREAMBLE_DETECT /;"	macro	line:141
+REG_RX_TIMEOUT1	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_RX_TIMEOUT1	/;"	macro	line:142
+REG_RX_TIMEOUT2	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_RX_TIMEOUT2	/;"	macro	line:143
+REG_RX_TIMEOUT3	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_RX_TIMEOUT3	/;"	macro	line:144
+REG_RX_DELAY	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_RX_DELAY	/;"	macro	line:145
+REG_OSC	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_OSC	/;"	macro	line:146
+REG_PREAMBLE_MSB_FSK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_PREAMBLE_MSB_FSK /;"	macro	line:147
+REG_PREAMBLE_LSB_FSK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_PREAMBLE_LSB_FSK /;"	macro	line:148
+REG_SYNC_VALUE1	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_SYNC_VALUE1	/;"	macro	line:149
+REG_SYNC_VALUE2	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_SYNC_VALUE2	/;"	macro	line:150
+REG_SYNC_VALUE3	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_SYNC_VALUE3	/;"	macro	line:151
+REG_SYNC_VALUE4	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_SYNC_VALUE4	/;"	macro	line:152
+REG_SYNC_VALUE5	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_SYNC_VALUE5	/;"	macro	line:153
+REG_SYNC_VALUE6	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_SYNC_VALUE6	/;"	macro	line:154
+REG_SYNC_VALUE7	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_SYNC_VALUE7	/;"	macro	line:155
+REG_SYNC_VALUE8	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_SYNC_VALUE8	/;"	macro	line:156
+REG_PACKET_CONFIG1	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_PACKET_CONFIG1	/;"	macro	line:157
+REG_PACKET_CONFIG2	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_PACKET_CONFIG2	/;"	macro	line:158
+REG_PAYLOAD_LENGTH_FSK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_PAYLOAD_LENGTH_FSK	/;"	macro	line:159
+REG_NODE_ADRS	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_NODE_ADRS	/;"	macro	line:160
+REG_BROADCAST_ADRS	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_BROADCAST_ADRS	/;"	macro	line:161
+REG_FIFO_THRESH	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_FIFO_THRESH	/;"	macro	line:162
+REG_SEQ_CONFIG1	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_SEQ_CONFIG1	/;"	macro	line:163
+REG_SEQ_CONFIG2	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_SEQ_CONFIG2	/;"	macro	line:164
+REG_TIMER_RESOL	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_TIMER_RESOL	/;"	macro	line:165
+REG_TIMER1_COEF	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_TIMER1_COEF	/;"	macro	line:166
+REG_TIMER2_COEF	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_TIMER2_COEF	/;"	macro	line:167
+REG_IMAGE_CAL	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_IMAGE_CAL	/;"	macro	line:168
+REG_TEMP	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_TEMP	/;"	macro	line:169
+REG_LOW_BAT	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_LOW_BAT	/;"	macro	line:170
+REG_IRQ_FLAGS1	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_IRQ_FLAGS1	/;"	macro	line:171
+REG_IRQ_FLAGS2	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^#define        REG_IRQ_FLAGS2	/;"	macro	line:172
+CH_DEFAULT	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_DEFAULT = 0x6c8000; \/\/ default channel, center frequency = 434.000MHz$/;"	variable	line:180
+CH_1_BW_500	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_1_BW_500 = 0x6c5345; \/\/ channel 1, bandwidth 500KHz, center frequency = 433.3MHz ( 433.050MHz - 433.550MHz )$/;"	variable	line:183
+CH_2_BW_500	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_2_BW_500 = 0x6c7af3; \/\/ channel 2, bandwidth 500KHz, center frequency = 433.92MHz ( 433.670MHz - 433.920MHz )$/;"	variable	line:184
+CH_3_BW_500	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_3_BW_500 = 0x6ca2a1; \/\/ channel 3, bandwidth 500KHz, center frequency = 434.54MHz ( 434.290MHz - 434.790MHz )$/;"	variable	line:185
+CH_1_BW_250	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_1_BW_250 = 0x6c4b45; \/\/ channel 1, bandwidth 250KHz, center frequency = 433.175MHz ( 433.050MHz - 433.300MHz )$/;"	variable	line:188
+CH_2_BW_250	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_2_BW_250 = 0x6c5e57; \/\/ channel 2, bandwidth 250KHz, center frequency = 433.473MHz ( 433.348MHz - 433.598MHz )$/;"	variable	line:189
+CH_3_BW_250	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_3_BW_250 = 0x6c716a; \/\/ channel 3, bandwidth 250KHz, center frequency = 433.771MHz ( 433.646MHz - 433.896MHz )$/;"	variable	line:190
+CH_4_BW_250	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_4_BW_250 = 0x6c847c; \/\/ channel 4, bandwidth 250KHz, center frequency = 434.069MHz ( 433.944MHz - 434.194MHz )$/;"	variable	line:191
+CH_5_BW_250	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_5_BW_250 = 0x6c978f; \/\/ channel 5, bandwidth 250KHz, center frequency = 434.367MHz ( 434.242MHz - 434.492MHz )$/;"	variable	line:192
+CH_6_BW_250	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_6_BW_250 = 0x6caaa1; \/\/ channel 6, bandwidth 250KHz, center frequency = 434.665MHz ( 434.540MHz - 434.790MHz )$/;"	variable	line:193
+CH_1_BW_125	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_1_BW_125 = 0x6c4745; \/\/ channel 1, bandwidth 125KHz, center frequency = 433.1125MHz ( 433.050MHz - 433.175MHz )$/;"	variable	line:196
+CH_2_BW_125	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_2_BW_125 = 0x6c4fe1; \/\/ channel 2, bandwidth 125KHz, center frequency = 433.247MHz ( 433.1845MHz - 433.3095MHz )$/;"	variable	line:197
+CH_3_BW_125	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_3_BW_125 = 0x6c587c; \/\/ channel 3, bandwidth 125KHz, center frequency = 433.3815MHz ( 433.319MHz - 433.444MHz )$/;"	variable	line:198
+CH_4_BW_125	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_4_BW_125 = 0x6c6118; \/\/ channel 4, bandwidth 125KHz, center frequency = 433.516MHz ( 433.4535MHz - 433.5785MHz )$/;"	variable	line:199
+CH_5_BW_125	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_5_BW_125 = 0x6c69b3; \/\/ channel 5, bandwidth 125KHz, center frequency = 433.6505MHz ( 433.588MHz - 433.713MHz )$/;"	variable	line:200
+CH_6_BW_125	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_6_BW_125 = 0x6c724f; \/\/ channel 6, bandwidth 125KHz, center frequency = 433.785MHz ( 433.7225MHz - 433.8475MHz )$/;"	variable	line:201
+CH_7_BW_125	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_7_BW_125 = 0x6c7af3; \/\/ channel 7, bandwidth 125KHz, center frequency = 433.92MHz ( 433.8575MHz - 433.9825MHz )$/;"	variable	line:202
+CH_8_BW_125	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_8_BW_125 = 0x6c8397; \/\/ channel 8, bandwidth 125KHz, center frequency = 434.055MHz ( 433.9925MHz - 434.1175MHz )$/;"	variable	line:203
+CH_9_BW_125	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_9_BW_125 = 0x6c8c32; \/\/ channel 9, bandwidth 125KHz, center frequency = 434.1895MHz ( 434.127MHz - 434.252MHz )$/;"	variable	line:204
+CH_10_BW_125	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_10_BW_125 = 0x6c94ce; \/\/ channel 10, bandwidth 125KHz, center frequency = 434.324MHz ( 434.2615MHz - 434.3865MHz )$/;"	variable	line:205
+CH_11_BW_125	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_11_BW_125 = 0x6c9d6a; \/\/ channel 11, bandwidth 125KHz, center frequency = 434.4585MHz ( 434.396MHz - 434.521MHz )$/;"	variable	line:206
+CH_12_BW_125	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_12_BW_125 = 0x6ca605; \/\/ channel 12, bandwidth 125KHz, center frequency = 434.593MHz ( 434.5305MHz - 434.6555MHz )$/;"	variable	line:207
+CH_13_BW_125	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_13_BW_125 = 0x6CaeA1; \/\/ channel 13, bandwidth 125KHz, center frequency = 434.7275MHz ( 434.665MHz - 434.790MHz )$/;"	variable	line:208
+CH_1	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_1 = 0x6c4597; \/\/ channel 1, center freq = 433.086MHz$/;"	variable	line:211
+CH_2	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_2 = 0x6c4a3b; \/\/ channel 2, center freq = 433.159MHz$/;"	variable	line:212
+CH_3	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_3 = 0x6c4edf; \/\/ channel 3, center freq = 433.231MHz$/;"	variable	line:213
+CH_4	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_4 = 0x6c5383; \/\/ channel 4, center freq = 433.304MHz$/;"	variable	line:214
+CH_5	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_5 = 0x6c5827; \/\/ channel 5, center freq = 433.376MHz$/;"	variable	line:215
+CH_6	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_6 = 0x6c5ccb; \/\/ channel 6, center freq = 433.449MHz$/;"	variable	line:216
+CH_7	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_7 = 0x6c616f; \/\/ channel 7, center freq = 433.521MHz$/;"	variable	line:217
+CH_8	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_8 = 0x6c6613; \/\/ channel 8, center freq = 433.594MHz$/;"	variable	line:218
+CH_9	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_9 = 0x6c6ab7; \/\/ channel 9, center freq = 433.666MHz$/;"	variable	line:219
+CH_10	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_10 = 0x6c6f5b; \/\/ channel 10, center freq = 433.739MHz$/;"	variable	line:220
+CH_11	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_11 = 0x6c73ff; \/\/ channel 11, center freq = 433.811MHz$/;"	variable	line:221
+CH_12	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_12 = 0x6c78a3; \/\/ channel 12, center freq = 433.884MHz$/;"	variable	line:222
+CH_13	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_13 = 0x6c7d47; \/\/ channel 13, center freq = 433.956MHz$/;"	variable	line:223
+CH_14	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_14 = 0x6c81eb; \/\/ channel 14, center freq = 434.029MHz$/;"	variable	line:224
+CH_15	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_15 = 0x6c868f; \/\/ channel 15, center freq = 434.101MHz$/;"	variable	line:225
+CH_16	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_16 = 0x6c8b33; \/\/ channel 16, center freq = 434.174MHz$/;"	variable	line:226
+CH_17	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_17 = 0x6c8fd8; \/\/ channel 17, center freq = 434.246MHz$/;"	variable	line:227
+CH_18	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_18 = 0x6c947c; \/\/ channel 18, center freq = 434.319MHz$/;"	variable	line:228
+CH_19	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_19 = 0x6c9920; \/\/ channel 19, center freq = 434.391MHz$/;"	variable	line:229
+CH_20	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_20 = 0x6c9dc4; \/\/ channel 20, center freq = 434.464MHz$/;"	variable	line:230
+CH_21	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_21 = 0x6ca268; \/\/ channel 21, center freq = 434.536MHz$/;"	variable	line:231
+CH_22	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_22 = 0x6ca70c; \/\/ channel 22, center freq = 434.609MHz$/;"	variable	line:232
+CH_23	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_23 = 0x6cabb0; \/\/ channel 23, center freq = 434.682MHz$/;"	variable	line:233
+CH_24	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t CH_24 = 0x6cb054; \/\/ channel 24, center freq = 434.754MHz$/;"	variable	line:234
+BW_7_8	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t BW_7_8 = 0x00;$/;"	variable	line:237
+BW_10_4	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t BW_10_4 = 0x01;$/;"	variable	line:238
+BW_15_6	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t BW_15_6 = 0x02;$/;"	variable	line:239
+BW_20_8	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t BW_20_8 = 0x03;$/;"	variable	line:240
+BW_31_2	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t BW_31_2 = 0x04;$/;"	variable	line:241
+BW_41_7	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t BW_41_7 = 0x05;$/;"	variable	line:242
+BW_62_5	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t BW_62_5 = 0x06;$/;"	variable	line:243
+BW_125	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t BW_125 = 0x07;$/;"	variable	line:244
+BW_250	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t BW_250 = 0x08;$/;"	variable	line:245
+BW_500	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t BW_500 = 0x09;$/;"	variable	line:246
+SignalBwLog	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const double SignalBwLog[] =$/;"	variable	line:248
+CR_5	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t CR_5 = 0x01;	\/\/ CR = 4\/5$/;"	variable	line:256
+CR_6	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t CR_6 = 0x02;	\/\/ CR = 4\/6$/;"	variable	line:257
+CR_7	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t CR_7 = 0x03;	\/\/ CR = 4\/7$/;"	variable	line:258
+CR_8	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t CR_8 = 0x04;	\/\/ CR = 4\/8$/;"	variable	line:259
+SF_6	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t SF_6 = 0x06;$/;"	variable	line:262
+SF_7	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t SF_7 = 0x07;$/;"	variable	line:263
+SF_8	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t SF_8 = 0x08;$/;"	variable	line:264
+SF_9	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t SF_9 = 0x09;$/;"	variable	line:265
+SF_10	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t SF_10 = 0x0A;$/;"	variable	line:266
+SF_11	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t SF_11 = 0x0B;$/;"	variable	line:267
+SF_12	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t SF_12 = 0x0C;$/;"	variable	line:268
+LORA_SLEEP_MODE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t LORA_SLEEP_MODE = 0x80;$/;"	variable	line:271
+LORA_STANDBY_MODE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t LORA_STANDBY_MODE = 0x81;$/;"	variable	line:272
+LORA_TX_MODE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t LORA_TX_MODE = 0x83;$/;"	variable	line:273
+LORA_RX_MODE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t LORA_RX_MODE = 0x85;$/;"	variable	line:274
+LORA_STANDBY_FSK_REGS_MODE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t LORA_STANDBY_FSK_REGS_MODE = 0xC1;$/;"	variable	line:275
+FSK_SLEEP_MODE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t FSK_SLEEP_MODE = 0x00;$/;"	variable	line:278
+FSK_STANDBY_MODE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t FSK_STANDBY_MODE = 0x01;$/;"	variable	line:279
+FSK_TX_MODE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t FSK_TX_MODE = 0x03;$/;"	variable	line:280
+FSK_RX_MODE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t FSK_RX_MODE = 0x05;$/;"	variable	line:281
+st_SD_ON	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t st_SD_ON = 1;$/;"	variable	line:285
+st_SD_OFF	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t st_SD_OFF = 0;$/;"	variable	line:286
+HEADER_ON	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t HEADER_ON = 0;$/;"	variable	line:287
+HEADER_OFF	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t HEADER_OFF = 1;$/;"	variable	line:288
+CRC_ON	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t CRC_ON = 1;$/;"	variable	line:289
+CRC_OFF	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t CRC_OFF = 0;$/;"	variable	line:290
+LORA	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t LORA = 1;$/;"	variable	line:291
+FSK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t FSK = 0;$/;"	variable	line:292
+BROADCAST_0	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t BROADCAST_0 = 0x00;$/;"	variable	line:293
+MAX_LENGTH	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t MAX_LENGTH = 255;$/;"	variable	line:294
+MAX_PAYLOAD	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t MAX_PAYLOAD = 251;$/;"	variable	line:295
+MAX_LENGTH_FSK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t MAX_LENGTH_FSK = 64;$/;"	variable	line:296
+MAX_PAYLOAD_FSK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t MAX_PAYLOAD_FSK = 60;$/;"	variable	line:297
+ACK_LENGTH	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t ACK_LENGTH = 5;$/;"	variable	line:298
+OFFSET_PAYLOADLENGTH	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t OFFSET_PAYLOADLENGTH = 5;$/;"	variable	line:299
+OFFSET_RSSI	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t OFFSET_RSSI = 137;$/;"	variable	line:300
+NOISE_FIGURE	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t NOISE_FIGURE = 6.0;$/;"	variable	line:301
+NOISE_ABSOLUTE_ZERO	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t NOISE_ABSOLUTE_ZERO = 174.0;$/;"	variable	line:302
+MAX_TIMEOUT	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint16_t MAX_TIMEOUT = 10000;		\/\/10000 msec = 10.0 sec$/;"	variable	line:303
+MAX_WAIT	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t MAX_WAIT = 12000;		\/\/12000 msec = 12.0 sec$/;"	variable	line:304
+MESH_TIMEOUT	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint32_t MESH_TIMEOUT = 3600000;  \/\/3600000 msec = 3600 sec = 1 hour$/;"	variable	line:305
+MAX_RETRIES	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t MAX_RETRIES = 5;$/;"	variable	line:306
+CORRECT_PACKET	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t CORRECT_PACKET = 0;$/;"	variable	line:307
+INCORRECT_PACKET	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^const uint8_t INCORRECT_PACKET = 1;$/;"	variable	line:308
+pack	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct pack$/;"	struct	line:313
+dst	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t dst;$/;"	member	line:318	struct:pack
+src	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t src;$/;"	member	line:323	struct:pack
+packnum	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t packnum;$/;"	member	line:328	struct:pack
+length	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t length;$/;"	member	line:333	struct:pack
+data	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t data[MAX_PAYLOAD];$/;"	member	line:338	struct:pack
+retry	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t retry;$/;"	member	line:343	struct:pack
+SX1278	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^class SX1278$/;"	class	line:355
+st_SD	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t st_SD;$/;"	member	line:1238	class:SX1278
+_bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t _bandwidth;$/;"	member	line:1253	class:SX1278
+_codingRate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t _codingRate;$/;"	member	line:1262	class:SX1278
+_spreadingFactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t _spreadingFactor;$/;"	member	line:1274	class:SX1278
+_channel	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint32_t _channel;$/;"	member	line:1303	class:SX1278
+_power	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t _power;$/;"	member	line:1309	class:SX1278
+_SNR	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	int8_t _SNR;$/;"	member	line:1315	class:SX1278
+_RSSI	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	int8_t _RSSI;$/;"	member	line:1321	class:SX1278
+_RSSIpacket	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	int16_t _RSSIpacket;$/;"	member	line:1327	class:SX1278
+_preamblelength	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint16_t _preamblelength;$/;"	member	line:1333	class:SX1278
+_payloadlength	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint16_t _payloadlength;$/;"	member	line:1339	class:SX1278
+_nodeAddress	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t _nodeAddress;$/;"	member	line:1345	class:SX1278
+_header	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t _header;$/;"	member	line:1351	class:SX1278
+_hreceived	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t _hreceived;$/;"	member	line:1357	class:SX1278
+_CRC	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t _CRC;$/;"	member	line:1363	class:SX1278
+_destination	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t _destination;$/;"	member	line:1369	class:SX1278
+_packetNumber	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t _packetNumber;$/;"	member	line:1375	class:SX1278
+_reception	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^   	uint8_t _reception;$/;"	member	line:1381	class:SX1278
+_retries	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^   	uint8_t _retries;$/;"	member	line:1387	class:SX1278
+_maxRetries	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^   	uint8_t _maxRetries;$/;"	member	line:1393	class:SX1278
+_maxCurrent	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^   	uint8_t _maxCurrent;$/;"	member	line:1399	class:SX1278
+_modem	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint8_t _modem;$/;"	member	line:1405	class:SX1278
+packet_sent	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	pack packet_sent;$/;"	member	line:1411	class:SX1278
+packet_received	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	pack packet_received;$/;"	member	line:1417	class:SX1278
+ACK	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	pack ACK;$/;"	member	line:1423	class:SX1278
+_temp	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	int _temp;$/;"	member	line:1429	class:SX1278
+_sendTime	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^	uint16_t _sendTime;$/;"	member	line:1435	class:SX1278
+Tsym	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  float Tsym;$/;"	member	line:1437	class:SX1278
+Tpreamble	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  float Tpreamble;$/;"	member	line:1438	class:SX1278
+payloadSymbNb	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  float payloadSymbNb;$/;"	member	line:1439	class:SX1278
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode{ };$/;"	struct	line:1446
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode<1>{$/;"	struct	line:1450
+bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t bandwidth = BW_125;$/;"	member	line:1451	struct:LoraMode
+codingrate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t codingrate = CR_5;$/;"	member	line:1452	struct:LoraMode
+spreadingfactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t spreadingfactor = SF_12;$/;"	member	line:1453	struct:LoraMode
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode<2>{$/;"	struct	line:1458
+bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t bandwidth = BW_250;$/;"	member	line:1459	struct:LoraMode
+codingrate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t codingrate = CR_5;$/;"	member	line:1460	struct:LoraMode
+spreadingfactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t spreadingfactor = SF_12;$/;"	member	line:1461	struct:LoraMode
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode<3>{$/;"	struct	line:1466
+bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t bandwidth = BW_125;$/;"	member	line:1467	struct:LoraMode
+codingrate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t codingrate = CR_5;$/;"	member	line:1468	struct:LoraMode
+spreadingfactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t spreadingfactor = SF_10;$/;"	member	line:1469	struct:LoraMode
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode<4>{$/;"	struct	line:1474
+bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t bandwidth = BW_500;$/;"	member	line:1475	struct:LoraMode
+codingrate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t codingrate = CR_5;$/;"	member	line:1476	struct:LoraMode
+spreadingfactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t spreadingfactor = SF_12;$/;"	member	line:1477	struct:LoraMode
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode<5>{$/;"	struct	line:1482
+bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t bandwidth = BW_250;$/;"	member	line:1483	struct:LoraMode
+codingrate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t codingrate = CR_5;$/;"	member	line:1484	struct:LoraMode
+spreadingfactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t spreadingfactor = SF_10;$/;"	member	line:1485	struct:LoraMode
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode<6>{$/;"	struct	line:1490
+bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t bandwidth = BW_500;$/;"	member	line:1491	struct:LoraMode
+codingrate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t codingrate = CR_5;$/;"	member	line:1492	struct:LoraMode
+spreadingfactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t spreadingfactor = SF_11;$/;"	member	line:1493	struct:LoraMode
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode<7>{$/;"	struct	line:1498
+bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t bandwidth = BW_250;$/;"	member	line:1499	struct:LoraMode
+codingrate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t codingrate = CR_5;$/;"	member	line:1500	struct:LoraMode
+spreadingfactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t spreadingfactor = SF_9;$/;"	member	line:1501	struct:LoraMode
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode<8>{$/;"	struct	line:1506
+bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t bandwidth = BW_500;$/;"	member	line:1507	struct:LoraMode
+codingrate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t codingrate = CR_5;$/;"	member	line:1508	struct:LoraMode
+spreadingfactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t spreadingfactor = SF_9;$/;"	member	line:1509	struct:LoraMode
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode<9>{$/;"	struct	line:1514
+bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t bandwidth = BW_500;$/;"	member	line:1515	struct:LoraMode
+codingrate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t codingrate = CR_5;$/;"	member	line:1516	struct:LoraMode
+spreadingfactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t spreadingfactor = SF_8;$/;"	member	line:1517	struct:LoraMode
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode<10>{$/;"	struct	line:1522
+bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t bandwidth = BW_500;$/;"	member	line:1523	struct:LoraMode
+codingrate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t codingrate = CR_5;$/;"	member	line:1524	struct:LoraMode
+spreadingfactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t spreadingfactor = SF_7;$/;"	member	line:1525	struct:LoraMode
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode<11>{$/;"	struct	line:1530
+bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t bandwidth = BW_7_8;$/;"	member	line:1531	struct:LoraMode
+codingrate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t codingrate = CR_5;$/;"	member	line:1532	struct:LoraMode
+spreadingfactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t spreadingfactor = SF_8;$/;"	member	line:1533	struct:LoraMode
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode<12>{$/;"	struct	line:1538
+bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t bandwidth = BW_7_8;$/;"	member	line:1539	struct:LoraMode
+codingrate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t codingrate = CR_5;$/;"	member	line:1540	struct:LoraMode
+spreadingfactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t spreadingfactor = SF_10;$/;"	member	line:1541	struct:LoraMode
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode<13>{$/;"	struct	line:1546
+bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t bandwidth = BW_31_2;$/;"	member	line:1547	struct:LoraMode
+codingrate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t codingrate = CR_5;$/;"	member	line:1548	struct:LoraMode
+spreadingfactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t spreadingfactor = SF_12;$/;"	member	line:1549	struct:LoraMode
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode<14>{$/;"	struct	line:1554
+bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t bandwidth = BW_31_2;$/;"	member	line:1555	struct:LoraMode
+codingrate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t codingrate = CR_8;$/;"	member	line:1556	struct:LoraMode
+spreadingfactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t spreadingfactor = SF_12;$/;"	member	line:1557	struct:LoraMode
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode<15>{$/;"	struct	line:1562
+bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t bandwidth = BW_125;$/;"	member	line:1563	struct:LoraMode
+codingrate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t codingrate = CR_8;$/;"	member	line:1564	struct:LoraMode
+spreadingfactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t spreadingfactor = SF_11;$/;"	member	line:1565	struct:LoraMode
+LoraMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^struct LoraMode<16>{$/;"	struct	line:1570
+bandwidth	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t bandwidth = BW_500;$/;"	member	line:1571	struct:LoraMode
+codingrate	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t codingrate = CR_8;$/;"	member	line:1572	struct:LoraMode
+spreadingfactor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^  static const uint8_t spreadingfactor = SF_7;$/;"	member	line:1573	struct:LoraMode
+setMode	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\lora_arduino.hpp	/^int8_t SX1278::setMode()$/;"	function	line:1587	class:SX1278	signature:()
+write_byte	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\spi.cpp	/^void write_byte(uint8_t val){$/;"	function	line:4	signature:(uint8_t val)
+read_byte	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\spi.cpp	/^uint8_t read_byte(){$/;"	function	line:31	signature:()
+spi_write	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\spi.cpp	/^void spi_write(uint8_t reg, uint8_t sz, uint8_t *data){$/;"	function	line:60	signature:(uint8_t reg, uint8_t sz, uint8_t *data)
+spi_read	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\spi.cpp	/^void spi_read(uint8_t reg, uint8_t sz, uint8_t *data){$/;"	function	line:78	signature:(uint8_t reg, uint8_t sz, uint8_t *data)
+spi_write8	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\spi.cpp	/^void spi_write8(uint8_t reg, uint8_t data){$/;"	function	line:97	signature:(uint8_t reg, uint8_t data)
+spi_read8	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\spi.cpp	/^uint8_t spi_read8(uint8_t reg){$/;"	function	line:114	signature:(uint8_t reg)
+SPI_HPP	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\spi.hpp	/^#define SPI_HPP$/;"	macro	line:2
+get_miso	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\spi.hpp	/^inline uint16_t get_miso(){$/;"	function	line:7	signature:()
+set_mosi	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\spi.hpp	/^inline void set_mosi(){$/;"	function	line:10	signature:()
+clear_mosi	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\spi.hpp	/^inline void clear_mosi(){$/;"	function	line:13	signature:()
+set_sck	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\spi.hpp	/^inline void set_sck(){$/;"	function	line:16	signature:()
+clear_sck	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\spi.hpp	/^inline void clear_sck(){$/;"	function	line:19	signature:()
+select_chip	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\spi.hpp	/^inline void select_chip(){$/;"	function	line:22	signature:()
+unselect_chip	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\spi.hpp	/^inline void unselect_chip(){$/;"	function	line:25	signature:()
+millis_cnt	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\system_functions.cpp	/^volatile uint32_t millis_cnt = 0;$/;"	variable	line:5
+init_all	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\system_functions.cpp	/^void init_all(){$/;"	function	line:7	signature:()
+mDELAY	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\system_functions.cpp	/^void mDELAY(uint32_t ms){$/;"	function	line:22	signature:(uint32_t ms)
+uDELAY	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\system_functions.cpp	/^void uDELAY(uint32_t us){$/;"	function	line:38	signature:(uint32_t us)
+fatal_error_handler	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\system_functions.cpp	/^void fatal_error_handler(uint32_t type){$/;"	function	line:51	signature:(uint32_t type)
+fatal_error_handler_with_string	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\system_functions.cpp	/^void fatal_error_handler_with_string(const char* name){$/;"	function	line:59	signature:(const char* name)
+error	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\system_functions.cpp	/^void error(uint32_t type){$/;"	function	line:67	signature:(uint32_t type)
+SYSTEM_FUNCTIONS_HPP	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\system_functions.hpp	/^#define SYSTEM_FUNCTIONS_HPP$/;"	macro	line:2
+millis	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\system_functions.hpp	/^inline uint32_t millis(){$/;"	function	line:16	signature:()
+get_data	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\system_functions.hpp	/^T get_data(uint8_t *data_arr){$/;"	function	line:22	signature:(uint8_t *data_arr)
+get_data_rev	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\system_functions.hpp	/^T get_data_rev(uint8_t *data_arr){$/;"	function	line:31	signature:(uint8_t *data_arr)
+get_data_arr	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\system_functions.hpp	/^void get_data_arr(T data, uint8_t *data_arr){$/;"	function	line:40	signature:(T data, uint8_t *data_arr)
+compare	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\system_functions.hpp	/^bool compare(uint8_t *data_arr, T org_data){$/;"	function	line:48	signature:(uint8_t *data_arr, T org_data)
+stop_timer	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\timer.cpp	/^void stop_timer(){$/;"	function	line:3	signature:()
+set_timer	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\timer.cpp	/^void set_timer(uint16_t limit){$/;"	function	line:8	signature:(uint16_t limit)
+wait_with_timer	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\timer.cpp	/^void wait_with_timer(uint16_t limit){$/;"	function	line:19	signature:(uint16_t limit)
+stop_timer2	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\timer.cpp	/^void stop_timer2(){$/;"	function	line:25	signature:()
+set_timer2	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\timer.cpp	/^void set_timer2(uint16_t limit){$/;"	function	line:29	signature:(uint16_t limit)
+wait_with_timer2	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\timer.cpp	/^void wait_with_timer2(uint16_t limit){$/;"	function	line:40	signature:(uint16_t limit)
+TIMER_HPP	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\timer.hpp	/^#define TIMER_HPP$/;"	macro	line:2
+is_timer_ended	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\timer.hpp	/^inline bool is_timer_ended(){$/;"	function	line:10	signature:()
+is_timer2_ended	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\timer.hpp	/^inline bool is_timer2_ended(){$/;"	function	line:18	signature:()
+send_char	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^void send_char(uint16_t ch){$/;"	function	line:3	signature:(uint16_t ch)
+send_data	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^void send_data(char const* data){$/;"	function	line:6	signature:(char const* data)
+send_error	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^void send_error(char const* data){$/;"	function	line:13	signature:(char const* data)
+send_debug	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^void send_debug(char const* data){$/;"	function	line:18	signature:(char const* data)
+send_data	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^void send_data(uint16_t count, uint16_t* data){$/;"	function	line:23	signature:(uint16_t count, uint16_t* data)
+send_int	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^void send_int(uint32_t data){$/;"	function	line:28	signature:(uint32_t data)
+send_signed_int	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^void send_signed_int(int32_t data){$/;"	function	line:45	signature:(int32_t data)
+read_char	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^uint16_t read_char(){$/;"	function	line:66	signature:()
+send_double	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^void send_double(double d, int precision){$/;"	function	line:70	signature:(double d, int precision)
+print	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^void _Serial::print(const char *data){$/;"	function	line:113	class:_Serial	signature:(const char *data)
+println	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^void _Serial::println(const char *data){$/;"	function	line:116	class:_Serial	signature:(const char *data)
+println	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^void _Serial::println(){$/;"	function	line:120	class:_Serial	signature:()
+print	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^void _Serial::print(uint32_t val, Type type){$/;"	function	line:123	class:_Serial	signature:(uint32_t val, Type type)
+print	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^void _Serial::print(int32_t val){$/;"	function	line:151	class:_Serial	signature:(int32_t val)
+println	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^void _Serial::println(int32_t val){$/;"	function	line:154	class:_Serial	signature:(int32_t val)
+println	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^void _Serial::println(uint32_t val, Type type){$/;"	function	line:158	class:_Serial	signature:(uint32_t val, Type type)
+Serial	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.cpp	/^_Serial Serial;$/;"	variable	line:163
+UART_HPP	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.hpp	/^#define UART_HPP$/;"	macro	line:2
+Type	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.hpp	/^enum Type{$/;"	enum	line:18
+HEX	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.hpp	/^  HEX, DEC$/;"	enumerator	line:19	enum:Type
+DEC	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.hpp	/^  HEX, DEC$/;"	enumerator	line:19	enum:Type
+_Serial	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\lib\mylib\uart.hpp	/^class _Serial{$/;"	class	line:22
+build	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^  "build": {$/;"	function	line:2
+core	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^    "core": "stm32", $/;"	function	line:3
+extra_flags	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^    "extra_flags": "-DSTM32F0 -DSTM32F042x6", $/;"	function	line:4
+f_cpu	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^    "f_cpu": "48000000L", $/;"	function	line:5
+ldscript	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^    "ldscript": "C:\\\\Users\\\\halil\\\\AppData\\\\Roaming\\\\SPB_16.6\\\\.platformio\\\\platforms\\\\ststm32\\\\ldscripts\\\\stm32f042x6_locm3.ld",$/;"	function	line:6
+cpu	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^    "cpu": "cortex-m0", $/;"	function	line:7
+mcu	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^    "mcu": "stm32f042k6t6",$/;"	function	line:8
+variant	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^    "variant": "stm32f042x6"$/;"	function	line:9
+frameworks	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^  "frameworks": [$/;"	function	line:11
+name	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^  "name": "ST Nucleo F042K6", $/;"	function	line:14
+platform	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^  "platform": "ststm32",$/;"	function	line:15
+upload	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^  "upload": {$/;"	function	line:16
+maximum_ram_size	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^    "maximum_ram_size": 6144, $/;"	function	line:17
+maximum_size	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^    "maximum_size": 32768, $/;"	function	line:18
+protocol	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^    "protocol": "stlink"$/;"	function	line:19
+url	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^  "url": "https:\/\/developer.mbed.org\/platforms\/ST-Nucleo-F042K6\/", $/;"	function	line:21
+vendor	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\platformio_configs\nucleo_f042k6_locm3.json	/^  "vendor": "ST"$/;"	function	line:22
+Embedded software of a master for SX1278(LoRa) with STM32F042	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\README.md	/^## Embedded software of a master for SX1278(LoRa) with STM32F042$/;"	function	line:1
+sys_tick_handler	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^void sys_tick_handler(void)$/;"	function	line:19	signature:(void)
+hard_fault_handler	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^void hard_fault_handler(void){$/;"	function	line:33	signature:(void)
+e	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^	int e;$/;"	variable	line:38
+message1	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^		char message1 [] = "LoRa";$/;"	variable	line:40
+message2	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^		char message2 [] = "GuNaY";$/;"	variable	line:41
+my_packet	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^		char my_packet[100];$/;"	variable	line:43
+main	C:\Users\halil\OneDrive\Belgeler\staj\Techneon_after_after\LoRa\src\main.cpp	/^int main(){$/;"	function	line:47	signature:()
